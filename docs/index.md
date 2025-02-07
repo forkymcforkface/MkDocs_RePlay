@@ -16,7 +16,7 @@ Have more questions? Please check the [F.A.Q](./faq.md) section for further info
 
 ## Main Features
 
-- Support for Raspberry Pi 3/4/5 using 64bit Linux, KMS/DRM and OpenGL ES 3.X (OpenGL ES compatibility mode in Pi3 models).
+- Support for Raspberry Pi Zero 2,3,4,and 5 using 64-bit Linux, KMS/DRM and OpenGL ES 3.x (OpenGL ES compatibility mode in Pi3 models).
 - Automatic detection of Raspberry Pi model. Same system (SD card) can be used in any supported model.
 - Support for both GL and Non-GL libretro based cores.
 - Support for both LCD and CRT screens via [DynaRes 2.0](index.md#dynares-20) engine.
